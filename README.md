@@ -20,9 +20,17 @@ There should not be anything too surprising in this implementation.. API / WebSo
 
 classnames package is included for easy manipulation of classNames styling. superagent is included as a light ajax library to avoid including all of jquery. ws is included to handle the websocket connection with the server. 
 
-### Install + Run
+webpack config was modified to resolve jsx files automatically for imports. verbalisk.css is included to achieve color: red; when a match occurs.
 
-How to install and run
+### Run
+
+Open index.html in any browser (Chrome on Windows 7 tested)
+
+### Build
+
+build: npm run build
+
+watch: npm run watch
 
 ### Usage
 
