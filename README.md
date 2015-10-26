@@ -6,6 +6,8 @@
 
 This version has no extras added. See verblingFlux2 and verblingFlux3 repos for Firebase Chat and WebRTC chat addons. 
 
+![alt tag](/demo.gif)
+
 ### Features
 
 #### Verbling Flummox
