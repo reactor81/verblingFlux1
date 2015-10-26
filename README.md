@@ -4,7 +4,12 @@
 
 ### Background
 
-Description of Implementation
+This version has no extras added. See verblingFlux2 ad verblingFlux3 repos for Firebase Chat and WebRTC chat addons. 
+
+### Features
+
+#### This version uses Verbling Flummox. 
+
 
 ### Install + Run
 
